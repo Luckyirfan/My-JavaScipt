@@ -1,0 +1,28 @@
+.main {
+    background-color: blue;
+    width: 700px; height: 1200px;
+}
+.sub{
+    background-color: blueviolet;
+    width: 100px; height: 100px;
+    position: relative;
+    top: 100px;
+    left: 100px;
+}
+.main1{
+    background-color: chartreuse;
+    width: 700px; height: 1000px;
+    
+    
+}
+.sub1{
+    background-color: crimson;
+    width: 100px; height: 100px;
+    position: sticky;
+    left: 600px;
+    bottom: 300px;
+    position: absolute;
+    z-index: 5;
+    
+
+}
